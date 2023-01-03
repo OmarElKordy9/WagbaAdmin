@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WagbaAdmin</string>
+    <string name="brand">Wagba</string>
+    <string name="slogan">You are in the Admin Page!</string>
+    <string name="getStarted">Get Started</string>
+    <string name="Orders">Orders</string>
+    <string name="accept">Accept Order</string>
+    <string name="prepare">Prepare Order</string>
+    <string name="deliver">Deliver Order</string>
+    <string name="delivered">Order Delivered</string>
+</resources>
